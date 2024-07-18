@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Experience the Ease and Efficiency of Our Professional Car Rentals",
+        "title": "Seamless Car Rental Services"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Experience the Ease and Efficiency of Our Professional Car Rentals",
+        "title": "Seamless Car Rental Services"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Experience the Ease and Efficiency of Our Professional Car Rentals",
+        "title": "Seamless Car Rental Services"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Experience the Ease and Efficiency of Our Professional Car Rentals",
+        "title": "Seamless Car Rental Services"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Experience the Ease and Efficiency of Our Professional Car Rentals",
+        "title": "Seamless Car Rental Services"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the Ease and Efficiency of Our Professional Car Rentals",
+        "title": "Seamless Car Rental Services"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Experience the Ease and Efficiency of Our Professional Car Rentals",
+        "title": "Seamless Car Rental Services"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Experience the Ease and Efficiency of Our Professional Car Rentals",
+        "title": "Seamless Car Rental Services"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the Ease and Efficiency of Our Professional Car Rentals",
+        "title": "Seamless Car Rental Services"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Seamless Car Rental Services",
+  "subtitle": "Experience the Ease and Efficiency of Our Professional Car Rentals"
+}
